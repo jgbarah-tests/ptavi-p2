@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# Comentario para que me entere
+# Comentario para que me entere (y no me entero)
 
 import sys
 
